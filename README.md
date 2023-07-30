@@ -1,1 +1,2 @@
 # Tableau_Dashboard_Amazon_Sales_In_India
+The Tableau dashboard provides insights into Amazon sales in India. It presents a comprehensive analysis of key performance indicators, revenue trends, product categories, and customer demographics. Through interactive visualizations, this dashboard offers a detailed understanding of sales patterns, enabling data-driven decision-making for business growth and optimization.
